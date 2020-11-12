@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about no
 - 📫 How to reach me: mikk#0001
 - ⚡ Fun fact: i'm mikk
+
+[![thisismikk's github stats](https://github-readme-stats.vercel.app/api?username=thisisimikk)](https://github.com/thisismikk/github-readme-stats)
