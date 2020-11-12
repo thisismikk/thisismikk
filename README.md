@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: i'm mikk
 
 [![thisismikk's github stats](https://github-readme-stats.vercel.app/api?username=thisismikk&count_private=true)](https://github.com/thisismikk/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisismikk)](https://github.com/thisismikk/github-readme-stats)
